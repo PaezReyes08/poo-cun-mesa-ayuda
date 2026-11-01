@@ -177,7 +177,7 @@ Reglas del negocio: un ticket solo puede avanzar de estado y, una vez `CERRADO`,
 
 ## 👤 Autor
 
-- **Nombre:** _TU NOMBRE COMPLETO_
+- **Nombre:** Jose Santiago Paez Reyes
 - **Programa:** Ingeniería de Sistemas – CUN
 - **Asignatura:** Programación Orientada a Objetos
-- **Docente:** _NOMBRE DEL DOCENTE_
+
