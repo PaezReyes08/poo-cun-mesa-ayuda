@@ -1,0 +1,2 @@
+# Solo para generar el .exe (la app usa unicamente la libreria estandar de Python)
+pyinstaller
